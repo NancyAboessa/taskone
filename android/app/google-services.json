@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887082651562",
+    "project_id": "baidaa",
+    "storage_bucket": "baidaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887082651562:android:ea1d43a1b094282299e5d3",
+        "android_client_info": {
+          "package_name": "com.example.taskone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887082651562-rd1k6a6b1tkhvpevpmgrml11clbvuh83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfhfT0NSRuDlOwuKVmyCDnyE3_IrXxK5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887082651562-rd1k6a6b1tkhvpevpmgrml11clbvuh83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

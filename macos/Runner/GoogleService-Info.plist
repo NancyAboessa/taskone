@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>887082651562-rdrsq02p8i58rh7534gnojjsbo4pl1kl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.887082651562-rdrsq02p8i58rh7534gnojjsbo4pl1kl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6tEqkeO_X9nSsQ1iRlinVoX_gZWlzbC8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>887082651562</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.taskone.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>baidaa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baidaa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:887082651562:ios:9cf184aa74d61cf299e5d3</string>
+</dict>
+</plist>
